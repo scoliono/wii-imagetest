@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1.1">
+  <name>Graphics Test</name>
+  <coder>Nathan</coder>
+  <version>v1.1</version>
+  <release_date>20140503</release_date>
+  <short_description>A graphics test</short_description>
+  <long_description>A graphics test</long_description>
+</app>
+
